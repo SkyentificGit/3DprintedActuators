@@ -16,6 +16,10 @@ Link1 - 3D printable link to attach one Callisto to another Callisto
 
 ![plot](https://github.com/SkyentificGit/3DprintedActuators/blob/main/Callisto/StandAndBracket.png)
 
+### RotaryTableBracket and Base:
+
+![plot](https://github.com/SkyentificGit/3DprintedActuators/blob/main/Callisto/RotaryTableBracketAndBase.png)
+
 CAD and 3D printing files you can find on my website: www.skyentific.com
 
 
