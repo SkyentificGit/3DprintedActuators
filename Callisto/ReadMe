@@ -1,5 +1,10 @@
-Some additional files for the Callisto actuator
+Some additional files for the Callisto actuator:
 
+CallistoRough - the outer dimensions of the actuator
+BaseSupport - 3D printable base for the actuator (axis of rotation is vertical)
+StandSupport - 3D printable base for the actuator (axis of rotation is horizontal)
+Bracket - 3D printable bracket to attach someting flat to the output
+Link1 - 3D printable link to attach one Callisto to another Callisto
 
 CAD and 3D printing files you can find on my website: www.skyentific.com
 
