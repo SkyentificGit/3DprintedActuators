@@ -1,15 +1,14 @@
-![plot](https://github.com/SkyentificGit/3DprintedActuators/blob/main/Callisto/CallistoRough.png)
-
-
 # Some additional files for the Callisto actuator:
 
-
+![plot](https://github.com/SkyentificGit/3DprintedActuators/blob/main/Callisto/CallistoRough.png)
 
 CallistoRough - the outer dimensions of the actuator
 BaseSupport - 3D printable base for the actuator (axis of rotation is vertical)
 StandSupport - 3D printable base for the actuator (axis of rotation is horizontal)
 Bracket - 3D printable bracket to attach someting flat to the output
 Link1 - 3D printable link to attach one Callisto to another Callisto
+
+![plot](https://github.com/SkyentificGit/3DprintedActuators/blob/main/Callisto/BaseAndLink1.png)
 
 CAD and 3D printing files you can find on my website: www.skyentific.com
 
