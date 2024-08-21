@@ -1,5 +1,7 @@
 Some additional files for the Callisto actuator:
 
+![alt text](https://github.com/SkyentificGit/3DprintedActuators/blob/main/Callisto/CallistoRough.png)
+
 CallistoRough - the outer dimensions of the actuator
 BaseSupport - 3D printable base for the actuator (axis of rotation is vertical)
 StandSupport - 3D printable base for the actuator (axis of rotation is horizontal)
